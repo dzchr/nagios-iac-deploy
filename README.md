@@ -32,7 +32,7 @@ terraform-nagios/
 Clona el repositorio y entra al directorio
 
 git clone https://github.com/tuusuario/terraform-nagios.git
-cd terraform-nagios
+cd nagios-iac-deploy
 
 Exporta tus credenciales temporales:
 
